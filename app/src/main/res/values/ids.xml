@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnGear" type="id">btnGear</item>
+    <item name="txtItemName" type="id">txtItemName</item>
+    <item name="txtCategory" type="id">txtCategory</item>
+    <item name="txtQuantity" type="id">txtQuantity</item>
+</resources>
